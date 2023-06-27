@@ -1,3 +1,4 @@
 # Ejercicios
 
-[https://github.com/silverstone1903/github-actions-exercises](https://github.com/silverstone1903/github-actions-exercises)
+[Creación de Actions (con JavaScript)](https://github.com/github-actions-training/exercise-writing-javascript-actions)  
+[Skills de GitHub](https://skills.github.com/#automate-workflows-with-github-actions)

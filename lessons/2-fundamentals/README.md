@@ -53,4 +53,5 @@ Que a su vez pueden ser comandos ejecutables por consola en el runner asignado, 
 [GH Script](https://github.com/marketplace/actions/github-script)  
 [Paquetes](https://docs.github.com/es/actions/publishing-packages/about-packaging-with-github-actions)
 
-[Marketplace GitHub Actions](https://github.com/marketplace?type=actions)
+[Marketplace GitHub Actions](https://github.com/marketplace?type=actions)  
+[GitHub Actions Training](https://githubschool.github.io/github-actions-training-fjk211/#/)
