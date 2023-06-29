@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  predeploy:
     runs-on: ubuntu-22.04
     steps:
       - name: Downloading project

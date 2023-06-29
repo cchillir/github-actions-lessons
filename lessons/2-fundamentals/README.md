@@ -1,12 +1,5 @@
 # 2. Fundamentos de GitHub Actions
 
-## Índice
-
-[1. Workflows](#1-workflows)
-[2. Jobs](#2-jobs)
-
-## 1. Workflows
-
 Un flujo de trabajo tiene un nombre asignado y se dispara cuando se produce un evento determinado, por ejemplo al hacer push en la rama main:
 
     name: Basic workflow example
@@ -36,10 +29,6 @@ Que a su vez pueden ser comandos ejecutables por consola en el runner asignado, 
           node-version: 18
       - name: Installing dependencies
         run: npm ci
-
-## 2. Jobs
-
-.
 
 ## Referencias
 
